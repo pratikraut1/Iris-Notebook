@@ -34,6 +34,6 @@ Heat map
 
 <p>
 Combined Box and strip plots
-<img src = 'Images/SepalWidth.png'>
+<img src = 'Images/SepalWidthCm.png'>
 </p>
 * Using box plot we found out about the outlier which is in Sepal Width feature
