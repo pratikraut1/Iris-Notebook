@@ -14,26 +14,26 @@ The columns in this dataset are:
 # Visualization
 <p>
 Countplot
-<img src = '/Images/Countplot.png'>
+<img src = '/Images/Countplot.png' width = '100' height = '100'>
 </p>
 
 <p>
 Pie Chart
-<img src = '/Images/Piechart.png'>
+<img src = '/Images/Piechart.png' width = '100' height = '100'>
 </p>
 
 <p>
 Distribution Plot
-<img src = 'Images/Distributionplot.png'>
+<img src = 'Images/Distributionplot.png' width = '100' height = '100'>
 </p>
 
 <p>
 Heat map
-<img src = '/Images/Heatmap.png'>
+<img src = '/Images/Heatmap.png' width = '100' height = '100'>
 </p>
 
 <p>
 Combined Box and strip plots
-<img src = 'Images/SepalWidthCm.png'>
+<img src = 'Images/SepalWidthCm.png' width = '100' height = '100'>
 </p>
 * Using box plot we found out about the outlier which is in Sepal Width feature
