@@ -18,21 +18,21 @@ The columns in this dataset are:
 
 
 <h4>Pie Chart</h4>
-<img src = '/Images/Piechart.png' width = '100' height = '100'>
+<img src = '/Images/Piechart.png' width = '300' height = '300'>
 
 
 
 <h4>Distribution Plot</h4>
-<img src = 'Images/Distributionplot.png' width = '100' height = '100'>
+<img src = 'Images/Distributionplot.png' width = '300' height = '300'>
 
 
 
 <h4>Heat map</h4>
-<img src = '/Images/Heatmap.png' width = '100' height = '100'>
+<img src = '/Images/Heatmap.png' width = '300' height = '300'>
 
 
 
 <h4>Combined Box and strip plots</h4>
-<img src = 'Images/SepalWidthCm.png' width = '100' height = '100'>
+<img src = 'Images/SepalWidthCm.png' width = '300' height = '300'>
 
 * Using box plot we found out about the outlier which is in Sepal Width feature
