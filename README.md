@@ -12,5 +12,28 @@ The columns in this dataset are:
     Species
 
 # Visualization
+<p>
 Countplot
-<img src = '/Images/Countplot.png'
+<img src = '/Images/Countplot.png'>
+</p>
+
+<p>
+Pie Chart
+<img src = '/Images/Piechart.png'>
+</p>
+
+<p>
+Distribution Plot
+<img src = 'Images/Distributionplot.png'>
+</p>
+
+<p>
+Heat map
+<img src = '/Images/Heatmap.png'>
+</p>
+
+<p>
+Combined Box and strip plots
+<img src = 'Images/SepalWidth.png'>
+</p>
+* Using box plot we found out about the outlier which is in Sepal Width feature
