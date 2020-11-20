@@ -39,3 +39,5 @@ The columns in this dataset are:
 
 # Classification report 
 <img src = 'Images/ConfusionMatrix.png' width = '300' height = '300'>
+
+# For metrics intuition you can check out my article https://medium.com/towards-artificial-intelligence/logistic-regression-with-pytorch-198a4ec80649
