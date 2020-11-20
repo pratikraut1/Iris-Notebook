@@ -36,3 +36,6 @@ The columns in this dataset are:
 <img src = 'Images/SepalWidthCm.png' width = '300' height = '300'>
 
 * Using box plot we found out about the outlier which is in Sepal Width feature
+
+# Classification report 
+<img src = 'Images/ConfusionMatrix.png' width = '300' height = '300'>
